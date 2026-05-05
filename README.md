@@ -20,3 +20,9 @@ I'm currently open to Front-end Developer / React Developer roles - remote acros
 **Forms:** Formik, validation logic  
 **SEO & i18n:** next-intl, localized routing, sitemaps, canonical URLs, hreflang  
 **Tools:** Git, GitHub, Figma, npm, Vite, Chrome DevTools
+
+---
+
+## Note
+
+Most of my production work has been done in private repositories and company-managed GitHub accounts. This profile is focused on personal projects, UI experiments, and selected frontend practice.
