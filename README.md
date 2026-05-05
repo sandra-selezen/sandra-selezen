@@ -1,22 +1,22 @@
-### Hello World 👋
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-- 🔭 I’m currently working on my first mobile app
-- 🌱 I’m currently learning React Native
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oleksandra-selezen/)
-- ⚡ Fun fact: I grow avocado 🥑 plant from seed
+# Hi, I'm Oleksandra 👋
 
-### Languages and Tools:
+I'm a Front-end Developer based in Tallinn, Estonia, with 2= years of hands-on experience building production-ready React and Next.js applications.
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-</p>
+My work focuses on responsive UI implementation, e-commerce user flows, REST API integrations, SEO improvements, and multilingual web applications. I enjoy turning Figma designs and product requirements into clean, maintainable, and user-friendly interfaces.
+
+I'm currently open to Front-end Developer / React Developer roles - remote across Europe or hybrid/office-based in Tallinn.
+
+---
+
+## Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3  
+**Styling:** Sass, Tailwind CSS, responsive design, mobile-first UI  
+**Data & APIs:** REST APIs, SWR, React Query, Axios  
+**Forms:** Formik, validation logic  
+**SEO & i18n:** next-intl, localized routing, sitemaps, canonical URLs, hreflang  
+**Tools:** Git, GitHub, Figma, npm, Vite, Chrome DevTools
