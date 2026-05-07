@@ -4,7 +4,7 @@
 
 # Hi, I'm Oleksandra 👋
 
-I'm a Front-end Developer based in Tallinn, Estonia, with 2= years of hands-on experience building production-ready React and Next.js applications.
+I'm a Front-end Developer based in Tallinn, Estonia, with 2+ years of hands-on experience building production-ready React and Next.js applications.
 
 My work focuses on responsive UI implementation, e-commerce user flows, REST API integrations, SEO improvements, and multilingual web applications. I enjoy turning Figma designs and product requirements into clean, maintainable, and user-friendly interfaces.
 
