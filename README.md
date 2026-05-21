@@ -25,4 +25,4 @@ Currently open to Front-end Developer / React Developer roles - remote across Eu
 
 ## Beyond Code
 
-Outside of coding, I enjoy reading fantasy books, skiing, learning digital art, and occasionally playing console games 😁
+When I'm not coding, I enjoy reading fantasy books, skiing, learning digital art, and playing console games from time to time 😌
