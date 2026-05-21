@@ -4,25 +4,25 @@
 
 # Hi, I'm Oleksandra 👋
 
-I'm a Front-end Developer based in Tallinn, Estonia, with 2+ years of hands-on experience building production-ready React and Next.js applications.
+I'm a Front-end Developer based in Tallinn, Estonia, with 2+ years of experience building React and Next.js applications.
 
-My work focuses on responsive UI implementation, e-commerce user flows, REST API integrations, SEO improvements, and multilingual web applications. I enjoy turning Figma designs and product requirements into clean, maintainable, and user-friendly interfaces.
+I focus on responsive UI, e-commerce flows, REST API integrations, SEO, and multilingual web apps. I enjoy turning Figma designs and product requirements into clean, maintainable, and user-friendly interfaces.
 
-I'm currently open to Front-end Developer / React Developer roles - remote across Europe or hybrid/office-based in Tallinn.
+Currently open to Front-end Developer / React Developer roles - remote across Europe or hybrid in Tallinn.
 
 ---
 
 ## Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3  
-**Styling:** Sass, Tailwind CSS, responsive design, mobile-first UI  
-**Data & APIs:** REST APIs, SWR, React Query, Axios  
+**Frontend:** React, Next.js, TypeScript, JavaScript  
+**Styling:** Sass, Tailwind CSS, responsive UI  
+**Data & APIs:** REST APIs, React Query, SWR, Axios  
 **Forms:** Formik, validation logic  
-**SEO & i18n:** next-intl, localized routing, sitemaps, canonical URLs, hreflang  
+**SEO & i18n:** next-intl, sitemaps, canonical URLs, hreflang  
 **Tools:** Git, GitHub, Figma, npm, Vite, Chrome DevTools
 
 ---
 
-## Note
+## Beyond Code
 
-Most of my production work has been done in private repositories and company-managed GitHub accounts. This profile is focused on personal projects, UI experiments, and selected frontend practice.
+Outside of coding, I enjoy reading fantasy books, skiing, learning digital art, and occasionally playing console games 😁
